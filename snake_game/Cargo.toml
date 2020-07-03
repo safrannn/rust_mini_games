@@ -1,0 +1,9 @@
+[package]
+name = "snake_game"
+version = "0.1.0"
+authors = ["Cheng Su <chengsu6561@Gmail.com>"]
+
+[dependencies]
+rand = "0.7.3"
+piston_window = "0.109.0"
+find_folder = "0.3.0"
